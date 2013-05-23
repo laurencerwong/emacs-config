@@ -1,0 +1,60 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Laurence/AppData/Roaming/.emacs.d/" . "elpa/")
+ ("c:/Users/Laurence/AppData/Roaming/.emacs.d/elpa/" . "evil-20130522.2031/")
+ ("c:/Users/Laurence/Documents/" . "Web Pages/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Laurence/AppData/Roaming/.emacs.d/elpa/evil-20130522.2031/"
+ "c:/Users/Laurence/AppData/Roaming/"
+ "c:/Users/Laurence/AppData/Roaming/.emacs.d/"
+ "d:/.emacs.d/"
+ "c:/Users/Laurence/Documents/Web Pages/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "evil.el"
+ "evil-maps.el"
+ ".emacs"
+ "config_evil.el"
+ "config_smex.el"
+ "config_paredit.el"
+ "key-bindings.el"
+ "helloworld.css"
+ "helloworld.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Laurence/AppData/Roaming/.emacs.d/elpa/evil-20130522.2031/" (20894 28714 0 0) "evil.elc" "evil.el" "evil-vars.elc" "evil-vars.el" "evil-types.elc" "evil-types.el" "evil-tests.elc" "evil-tests.el" "evil-states.elc" "evil-states.el" "evil-search.elc" "evil-search.el" "evil-repeat.elc" "evil-repeat.el" "evil-pkg.elc" "evil-pkg.el" "evil-maps.el~" "evil-maps.elc" "evil-maps.el" "evil-macros.elc" "evil-macros.el" "evil-integration.elc" "evil-integration.el" "evil-ex.elc" "evil-ex.el" "evil-digraphs.elc" "evil-digraphs.el" "evil-core.elc" "evil-core.el" "evil-common.elc" "evil-common.el" "evil-commands.elc" "evil-commands.el" "evil-autoloads.el~" "evil-autoloads.el" "../" "./")
+
+ ("c:/Users/Laurence/AppData/Roaming/" (20894 28738 0 0) "Mozilla/" "Microsoft/" "Macromedia/" "Dexpot/" "Adobe/" ".emacs~" ".emacs.d/" ".emacs" "../" "./")
+
+ ("c:/Users/Laurence/AppData/Roaming/.emacs.d/elpa/" (20894 26612 0 0) "undo-tree-20130516.8/" "smex-20130421.2153/" "jumpc-readme.txt" "evil-readme.txt~" "evil-readme.txt" "evil-20130522.2031/" "archives/" "../" "./")
+
+ ("c:/Users/Laurence/AppData/Roaming/.emacs.d/" (20894 27704 0 0) "site-lisp/" "key-bindings.el~" "key-bindings.el" "elpa/" "config_smex.el" "config_paredit.el~" "config_paredit.el" "config_evil.el~" "config_evil.el" "auto-save-list/" "../" "./")
+
+ ("c:/Users/Laurence/AppData/Roaming/.emacs.d/elpa/smex-20130421.2153/" (20894 26612 0 0) "smex.elc" "smex.el" "smex-pkg.elc" "smex-pkg.el" "smex-autoloads.el~" "smex-autoloads.el" "../" "./")
+
+ ("d:/.emacs.d/" (20890 38710 0 0) "url/" "themes/" "snippets/" "site-lisp/" "image-dired/" "elpa/" "doc/" "defuns/" "auto-save-list/" "tramp" "Tango-Dark-Bitstream-theme.el~" "Tango-Dark-Bitstream-theme.el" "setup-yasnippet.el~" "setup-yasnippet.el" "setup-repositories.el" "setup-org-mode.el~" "setup-org-mode.el" "setup-nyan.el~" "setup-nyan.el" "setup-line-wrap.el~" "setup-line-wrap.el" "setup-iedit.el~" "setup-iedit.el" "setup-ido.el" "setup-hippie.el" "setup-fastnav.el" "setup-evil.el~" "setup-evil.el" "setup-dired.el~" "setup-dired.el" "setup-c-mode.el~" "setup-c-mode.el" "setup-autopair.el~" "setup-autopair.el" "setup-android-mode.el~" "setup-android-mode.el" "session.10a6504796bdd753d5135666938151604600000017390040" "session.1071e0415375e19214135641152427652700000016950040" "key-bindings.el~" "key-bindings.el" "appearance.el~" "appearance.el" "%backup%~" "#setup-evil.el#" "../" "./")
+
+ ("c:/Users/Laurence/Documents/Web Pages/" (20894 25079 0 0) "helloworld2.html~" "helloworld2.html" "helloworld.html~" "helloworld.html" "helloworld.css~" "helloworld.css" ".helloworld2.html.swp" "../" "./")
+
+ ("c:/Users/Laurence/Documents/" (20893 35135 0 0) "Web Pages/" "My Videos/" "My Pictures/" "My Music/" "My Games/" "desktop.ini" "../" "./")
+
+ ("c:/Users/Laurence/" (20893 37981 0 0) "_viminfo" "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{97e1de87-d6fa-11e1-be62-94c0340a1222}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{97e1de87-d6fa-11e1-be62-94c0340a1222}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{97e1de87-d6fa-11e1-be62-94c0340a1222}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" ".gvimrc" ".gimp-2.8/" "../" "./")
+
+ ("c:/Users/" (20890 49638 0 0) "Public/" "Laurence/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Program Files (x86)/emacs-24.3/" (20893 35889 0 0) "site-lisp/" "README.W32" "README" "lisp/" "leim/" "info/" "etc/" "COPYING" "BUGS" "bin/" "../" "./")
+
+ ("c:/Program Files (x86)/emacs-24.3/bin/" (20893 35776 0 0) "runemacs.exe" "profile.exe" "movemail.exe" "libXpm.dll" "hexl.exe" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "ebrowse.exe" "ddeclient.exe" "ctags.exe" "COPYING" "cmdproxy.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

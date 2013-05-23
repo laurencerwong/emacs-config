@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ emacs-init-time
+ eval-buffer
+ byte-recompile-directory
+ paredit-kill
+ paredit-mode
+ dirs
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (dirs . 1)
+ (paredit-mode . 1)
+ (paredit-kill . 1)
+ (eval-buffer . 2)
+ (byte-recompile-directory . 1)
+ (emacs-init-time . 1)
+)
