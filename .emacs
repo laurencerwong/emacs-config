@@ -3,6 +3,10 @@
     (tool-bar-mode -1)
   )
 
+;; change default tab from 8 spaces to 4
+(setq-default indent-tabs-mode nil)	;replace tabs with spaces
+(setq-default tab-width 4)
+
 ;; disable scroll bars
 (scroll-bar-mode -1)
 
@@ -11,6 +15,8 @@
 ;; Add site-lisp to the load path
 (add-to-list 'load-path "~/.emacs.d/site-lisp")
 
+;;; load custom defuns
+(require 'cust-defuns)
 ;; enable evil mode
 (require 'config_evil)
 ;; enable smex
