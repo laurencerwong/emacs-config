@@ -9,6 +9,8 @@
 
 ;; disable scroll bars
 (scroll-bar-mode -1)
+;;; enable line truncating
+(setq-default truncate-lines t)
 
 ;; Add .emacs.d/ to load path
 (add-to-list 'load-path "~/.emacs.d")

@@ -808,7 +808,7 @@ Each predicate should examine only text before the point, if ENDP is
   ;; close the string), do insert a space.
   (and (not (if endp (eobp) (bobp)))
        (memq (char-syntax (if endp (char-after) (char-before)))
-             (list ?w ?_ ?\"
+             (list ?\" 		;Removed ?w ?_
                    (let ((matching (matching-paren delimiter)))
                      (and matching (char-syntax matching)))
                    (and (not endp)
