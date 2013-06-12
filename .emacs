@@ -17,8 +17,6 @@
 ;; Add site-lisp to the load path
 (add-to-list 'load-path "~/.emacs.d/site-lisp")
 
-;;; load custom defuns
-(require 'cust-defuns)
 ;; enable evil mode
 (require 'config_evil)
 ;; enable smex
@@ -27,6 +25,8 @@
 (require 'config_paredit)
 ;; set keybindings
 (require 'key-bindings)
+;;; load custom defuns
+(require 'cust-defuns)
 
 ;; enable ido mode
 (ido-mode 1)

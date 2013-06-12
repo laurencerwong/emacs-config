@@ -1,2 +1,4 @@
 *~
 *.elc
+.ido.last
+.smex-items
